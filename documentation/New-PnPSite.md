@@ -151,19 +151,6 @@ Accept pipeline input: False
 Accept wildcard characters: False
 ```
 
-### -Description
-The description of the site to create
-```yaml
-Type: String
-Parameter Sets: CommunicationSite, TeamSite
-
-Required: False
-Position: Named
-Default value: None
-Accept pipeline input: False
-Accept wildcard characters: False
-```
-
 ### -HubSiteId
 If specified the site will be associated to the hubsite as identified by this id
 
